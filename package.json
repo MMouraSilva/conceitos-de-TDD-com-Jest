@@ -1,0 +1,15 @@
+{
+  "name": "conceitos-de-tss-com-jest",
+  "version": "1.0.0",
+  "description": "aplicação básica dos conceitos de TDD com Jest. Aula do curso de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
